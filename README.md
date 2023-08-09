@@ -36,6 +36,6 @@ DAY 2 [9-08-2023]
 
   ![IMPLEMENTATION OF DIFFIE HELLMAN KEY EXCHANGE ALGORITHM](https://github.com/geethikageethika/CSA5183-CNS-LAB/assets/112924807/82c03cb8-362b-4870-9ae1-d72259dc6174)
 
+3.IMPLEMENTATION OF DES
 
-   
-
+  ![IMPLEMENTATION OF DES](https://github.com/geethikageethika/CSA5183-CNS-LAB/assets/112924807/ea3aaea1-f314-46cb-9d42-84dfba3aa65d)
