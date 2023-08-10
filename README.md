@@ -39,3 +39,8 @@ DAY 2 [9-08-2023]
 3.IMPLEMENTATION OF DES
 
   ![IMPLEMENTATION OF DES](https://github.com/geethikageethika/CSA5183-CNS-LAB/assets/112924807/ea3aaea1-f314-46cb-9d42-84dfba3aa65d)
+
+4.IMPLEMENTATION OF RAIL FENCE
+
+![IMPLEMENTATION OF RAIL FENCE](https://github.com/geethikageethika/CSA5183-CNS-LAB/assets/112924807/c9997f67-2aac-4a43-a670-5334114a9db5)
+
