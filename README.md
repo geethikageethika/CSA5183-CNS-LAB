@@ -44,3 +44,16 @@ DAY 2 [9-08-2023]
 
 ![IMPLEMENTATION OF RAIL FENCE](https://github.com/geethikageethika/CSA5183-CNS-LAB/assets/112924807/c9997f67-2aac-4a43-a670-5334114a9db5)
 
+
+CLASS TEST 1
+IMPLEMENTATION OF CEASER CIPHER
+
+![CLASS TEST CEASER CIPHER](https://github.com/geethikageethika/CSA5183-CNS-LAB/assets/112924807/a72efc58-b4ff-436d-ac2b-542279c7b8f6)
+
+
+DAY 3 [10-08-23]
+
+1.IMPLEMENTATION OF MD5
+
+![IMPLEMENTATION OF MD5](https://github.com/geethikageethika/CSA5183-CNS-LAB/assets/112924807/f1849327-71fd-4da5-90de-b32907f5d7cb)
+
