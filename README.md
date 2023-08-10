@@ -48,6 +48,16 @@ DAY 2 [9-08-2023]
 CLASS TEST 1
 IMPLEMENTATION OF CEASER CIPHER
 
+
+Write a C program for generalization of the Caesar cipher, known as the affine Caesar cipher, has the
+following form: For each plaintext letter p, substitute the ciphertext letter C: C = E([a, b], p) = (ap + b) 
+mod 26 A basic requirement of any encryption algorithm is that it be one-to-one. That is, if p q, then 
+E(k, p) E(k, q). Otherwise, decryption is impossible, because more than one plaintext character maps into 
+the same ciphertext character. The affine Caesar cipher is not one-to-one for all values of a. For example, 
+for a = 2 and b = 3, then E([a, b], 0) = E([a, b], 13) = 3.
+a. Are there any limitations on the value of b? 
+b. Determine which values of a are not allowed.
+
 ![CLASS TEST CEASER CIPHER](https://github.com/geethikageethika/CSA5183-CNS-LAB/assets/112924807/a72efc58-b4ff-436d-ac2b-542279c7b8f6)
 
 
