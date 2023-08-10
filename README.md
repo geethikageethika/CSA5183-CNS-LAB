@@ -67,3 +67,8 @@ DAY 3 [10-08-23]
 
 ![IMPLEMENTATION OF MD5](https://github.com/geethikageethika/CSA5183-CNS-LAB/assets/112924807/f1849327-71fd-4da5-90de-b32907f5d7cb)
 
+2.IMPLEMENTATION ON SHA
+
+![IMPLEMENTATION OF SHA](https://github.com/geethikageethika/CSA5183-CNS-LAB/assets/112924807/1f8d4426-19e5-4065-b098-bf753ac5d626)
+
+
