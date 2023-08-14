@@ -76,6 +76,29 @@ CLASS TEST 2
 IMPLEMENTATION OF RSA ALGORITHM
   ![IMPLEMENTATION OF POLY ALPHBETIC CIPHER](https://github.com/geethikageethika/CSA5183-CNS-LAB/assets/112924807/17275757-43cb-413d-a7fc-0e4bc64e72f4)
 
+  MODEL LAB EXAM [14-08-23]
+SET 2
+
+1. Write a C program to implement Rail fence transposition technique.
+
+   ![image](https://github.com/geethikageethika/CSA5183-CNS-LAB/assets/112924807/c5db8ccd-447f-48fb-bca5-8ff23cf973ea)
+
+
+2.  Write a C program to implement Data Encryption Standard (DES) using C Language.
+
+   ![image](https://github.com/geethikageethika/CSA5183-CNS-LAB/assets/112924807/443caf8e-1c5b-44e2-b126-8267df668d50)
+
+
+3.  Write a C program to implement the RSA encryption algorithm.
+
+   ![image](https://github.com/geethikageethika/CSA5183-CNS-LAB/assets/112924807/98557595-86a3-4a9e-851f-c216de7542bb)
+
+
+4.  Write a C program to implement Diffie-Hellman Key Exchange algorithm
+
+   ![image](https://github.com/geethikageethika/CSA5183-CNS-LAB/assets/112924807/81e539dc-43a4-4c86-90b7-8f54113158b0)
+
+
 
 
 
